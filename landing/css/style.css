@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family:'Courier', serif;
+	font-size: 15px;
+	color:rgb(000000);
+    background-color: rgb(200 200 200);
+    text-align: justify;
+    margin: 0px auto;
+}
+
+h1,h2,h3{
+	font-family:'Source', Italic;
+	color:#0C0000;
+}

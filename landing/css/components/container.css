@@ -1,0 +1,28 @@
+.container{
+  width: 900px;
+  margin-left: 170px;
+  margin-right: 80px;
+}
+
+.container h2{
+  font-size: 45px;
+  text-decoration: underline;
+}
+
+@media (max-width: 960px) {
+  div.container {
+    width: 700px;
+   }
+}
+@media (max-width: 720px) {
+	div.container {
+    width: 500px;
+   }
+}
+@media (max-width: 540px) {
+  div.container, {
+    width: 300px;
+   }
+}
+
+

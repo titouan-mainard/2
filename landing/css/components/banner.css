@@ -1,0 +1,30 @@
+.banner{
+	background-image: linear-gradient(-255deg, rgba(0,0,0,.95) 0%, rgba(150,150,150,.4) 90%), url(../../images/green-code-made-programming-dark-background_250994-1552.jpg);
+	background-size: cover;
+	padding:40px;
+	background-position: center;
+	color: white;
+	margin-left: -100px;
+}
+
+.banner h1 {
+  font-size: 100px;
+  color: white;
+}
+.banner h2 {
+  font-size: 40px;
+  font-weight: lighter;
+  opacity: 0.8;
+  color: white;
+  text-decoration: none;
+}
+
+.banner a{
+	font-size: 20px;
+	color: rgb(200 200 200);
+	background-color: #60B2E5;
+}
+.banner a : hover{
+	color: #60B2E5;
+	background-color: rgb(200 200 200);
+}
